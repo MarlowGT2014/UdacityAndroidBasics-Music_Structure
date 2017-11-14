@@ -8,3 +8,5 @@ Screenshot of Main Screen:
 ![screenshot_1510618293](https://user-images.githubusercontent.com/14775517/32760354-e91bef52-c8bb-11e7-9ace-9ab1699ea395.png)
 
 Screenshot of "Albums" menu: 
+
+![screenshot_1510618299](https://user-images.githubusercontent.com/14775517/32760385-0b1d1018-c8bc-11e7-9ae1-70c7be461d4a.png)
